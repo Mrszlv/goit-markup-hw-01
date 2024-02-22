@@ -1,3 +1,3 @@
-# My-one-projekt-best
+# My-one-projekt
 
 this is my first project
